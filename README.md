@@ -8,4 +8,4 @@ numpy==1.14.2
 matplotlib==2.2.3
 astropy==2.0.12
 
-To reproduce simulation slice figures, this requires the download of raw simulation shapshots, availible on Zenodo at: (Link TBA). 
+To reproduce simulation slice figures, this requires the download of raw simulation shapshots, availible on Zenodo at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3939284.svg)](https://doi.org/10.5281/zenodo.3939284). 
